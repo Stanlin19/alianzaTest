@@ -1,0 +1,34 @@
+.content {
+    margin-top: 8%;
+}
+
+.btns {
+    margin-right: 5%;
+}
+
+h2 {
+    color: #0088cc;
+}
+
+.srchFieldNames {
+    font-size: 150%;
+}
+
+.labels {
+    margin-top: 12%;
+    margin-bottom: 8%;
+}
+
+.srchBtn {
+    text-align: right;
+    margin-top: 8%;
+}
+
+.createModal {
+    margin-left: 10%;
+}
+
+:host ::ng-deep .p-dialog .p-dialog-content:last-of-type ,
+:host ::ng-deep .p-dialog-draggable .p-dialog-header {
+    background: #a9c9d8; 
+}
